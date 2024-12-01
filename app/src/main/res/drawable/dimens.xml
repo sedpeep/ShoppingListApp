@@ -1,0 +1,5 @@
+<resources>
+    <!-- Corner radius for rounded corners -->
+    <dimen name="corner_radius">12dp</dimen>
+</resources>
+
